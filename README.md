@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marshmallow-Rosa
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C#, Phyton, 
+- 🌱 I’m currently learning C#, Python and Roblot
 - 💞️ I’m looking to collaborate on any project that I can learn
 - ✌ You can reach me in Linkedin https://www.linkedin.com/in/luiza-gois-magalh%C3%A3es-a45968164/
 
